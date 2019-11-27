@@ -39,6 +39,6 @@
   "scripts": {
     "dev": "rollup -c -w",
     "build": "rollup -c",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "yarn run build"
   }
 }
