@@ -1,17 +1,18 @@
 {
-  "name": "homebridge-tesla",
-  "version": "2.2.2",
-  "description": "Tesla support for Homebridge: https://github.com/nfarina/homebridge",
+  "name": "homebridge-rtl-433",
+  "version": "0.0.1",
+  "description": "Tesla support for Homebridge: https://github.com/rubenvanassche/homebridge-rtl-433",
   "license": "ISC",
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "rtl-433"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfarina/homebridge-tesla.git"
+    "url": "git://github.com/rubenvanassche/homebridge-rtl-433.git"
   },
   "bugs": {
-    "url": "http://github.com/nfarina/homebridge-tesla/issues"
+    "url": "http://github.com/rubenvanassche/homebridge-rtl-433/issues"
   },
   "engines": {
     "node": ">=0.12.0",
